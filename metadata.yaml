@@ -1,0 +1,34 @@
+_repo: The-Life-of-a-Celebrated-BuccaneerA-Page-of-Past-History-for-the-Use-of-the-Children-of-To-da__36615
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clynton, Richard
+    gutenberg_agent_id: '38378'
+    url: http://www.gutenberg.org/2009/agents/38378
+description: ''
+gutenberg_issued: '2011-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+title: 'The Life of a Celebrated Buccaneer
+
+  A Page of Past History for the Use of the Children of To-day'
+url: http://www.gutenberg.org/ebooks/36615
